@@ -8,6 +8,14 @@ class Member extends Sequelize.Model {
                 primaryKey: true,
                 autoIncrement : true,
             },
+            memberId : {
+                type: Sequelize.STRING(45),
+                allowNull : false,
+            },
+            memberPw : {
+                type: Sequelize.STRING(45),
+                allowNull : false,
+            },
             memberName: {
                 type: Sequelize.STRING(45),
                 allowNull : false,
@@ -33,7 +41,7 @@ class Member extends Sequelize.Model {
     }
     static associate(db) {
         db.Member.hasMany(db.State);
-	db.Member.hasOne(db.Descriptor);
+        db.Member.hasOne(db.Descriptor);
     }
 };
 
