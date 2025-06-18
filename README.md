@@ -62,8 +62,9 @@ With mandatory mask policies due to the spread of COVID-19, the societal cost of
 ## 🦴 System Overview
 ![전체개요](https://user-images.githubusercontent.com/61309080/100186214-f032f200-2f28-11eb-9bc0-691c4d21718e.jpeg)
 
-![Screen Shot 2020-12-04 at 1 12 50 AM](https://user-images.githubusercontent.com/64248514/101056070-ee72c980-35cd-11eb-910f-79140d895ed4.png)
-![Screen Shot 2020-12-04 at 1 11 56 AM](https://user-images.githubusercontent.com/64248514/101055912-c1beb200-35cd-11eb-93db-5621b8415aa6.png)
+![Screen Shot 2020-12-04 at 1 12 50 AM](https://github.com/user-attachments/assets/939e8792-82b9-46d8-bf10-d8f43686d639)
+
+![Screen Shot 2020-12-04 at 1 11 56 AM](https://github.com/user-attachments/assets/6fc92a34-42e5-4379-8ff5-3e250d2edb9b)
 
 - 원본 편집 주소   
 https://o365uos-my.sharepoint.com/:x:/g/personal/2016440050_office_uos_ac_kr/EZ1ecBsRLGBHlej1hgj58UAB_hGtvV6s7FHVLKtI6wEwyQ?e=wN0XZh 
